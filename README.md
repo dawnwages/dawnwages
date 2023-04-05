@@ -3,7 +3,7 @@
 Thee Python Community Advocate @ Microsoft
 
 ![Five sequential pictures of Dawn Wages, a black woman with purple hair and an orange beanie](./me.png)
-
+</br>
 *(on occupied territory of the Lenape people)*
 |Mastodon| Twitch | Chat with me | Blog |
 |----|----|----|----|
