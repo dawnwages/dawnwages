@@ -13,7 +13,7 @@ Currently writing [Domain-Driven Django](http://domaindrivendjango.com).
 
 I am a Django Software Engineer turned Product/Community manager. My corporate overlords at Microsoft let me work on the very _coolest_ of projects including, but not limited to: `Python on VS Code`, `Dev Containers`, [`hosting a monthly Python live stream called The Python Pulse`](https://www.youtube.com/playlist?list=PLj6YeMhvp2S4aIxuGH0NaGXQZlVUBsH3E), `Deploying Django on Azure`. 
 
-## Upcoming conferences
+## 📅 Upcoming conferences
 - [DjangoCon EU 2024](https://2024.djangocon.us) Speaker
 - [PyCon Nigeria 2024](https://ng.pycon.org/) Keynote speaker
 - [All Things Open 2024]() Speaker
