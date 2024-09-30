@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-Thee Python Community Advocate @ Microsoft
-
-![Five sequential pictures of Dawn Wages, a black woman with purple hair and an orange beanie](./me.png)
+The Python Community Advocate @ Microsoft
 </br>
 *(on occupied territory of the Lenape people)*
+Currently writing [Domain-Driven Django](http://domaindrivendjango.com).
 |Mastodon| Twitch | Chat with me | Blog |
 |----|----|----|----|
 | [@BajoranEngineer@mastodon.online](https://mastodon.online/@BajoranEngineer)| [Trek Tuesdays & Wagtail Wednesdays](https://twitch.tv/BajoranEngineer)  | [Python Microsoft Discord](https://aka.ms/python-discord)| [dawnwages.info/bajoran-engineer/](https://dawnwages.info/bajoran-engineer/)•••••••••
 
 
-I am a Django Software Engineer turned Product/Community manager. Currently writing [Domain-Driven Django](http://domaindrivendjango.com). My corporate overlords at Microsoft let me work on the very _coolest_ of projects including, but not limited to: `Python on VS Code`, `Dev Containers`, [`hosting a monthly Python live stream called The Python Pulse`](https://www.youtube.com/playlist?list=PLj6YeMhvp2S4aIxuGH0NaGXQZlVUBsH3E), `Deploying Django on Azure`. 
+I am a Django Software Engineer turned Product/Community manager. My corporate overlords at Microsoft let me work on the very _coolest_ of projects including, but not limited to: `Python on VS Code`, `Dev Containers`, [`hosting a monthly Python live stream called The Python Pulse`](https://www.youtube.com/playlist?list=PLj6YeMhvp2S4aIxuGH0NaGXQZlVUBsH3E), `Deploying Django on Azure`. 
 
 ## Upcoming conferences
 - [DjangoCon EU 2024](https://2024.djangocon.us) Speaker
