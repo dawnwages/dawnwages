@@ -14,7 +14,7 @@ Currently writing [Domain-Driven Django](http://domaindrivendjango.com).
 I am a Django Software Engineer turned Product/Community manager. My corporate overlords at Microsoft let me work on the very _coolest_ of projects including. 
 
 ## 📅 Upcoming conferences
-<--
+<!--
 - [DjangoCon EU 2024](https://2024.djangocon.us) Speaker
 - [PyCon Nigeria 2024](https://ng.pycon.org/) Keynote speaker
 - [All Things Open 2024]() Speaker
