@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-The Python Community Advocate @ Microsoft
+Lead Community & Developer Relations @ Anaconda
 </br>
 *(on occupied territory of the Lenape people)*
 
@@ -11,13 +11,14 @@ Currently writing [Domain-Driven Django](http://domaindrivendjango.com).
 | [@BajoranEngineer@mastodon.online](https://mastodon.online/@BajoranEngineer)| [Trek Tuesdays & Wagtail Wednesdays](https://twitch.tv/BajoranEngineer)  | [Python Microsoft Discord](https://aka.ms/python-discord)| [dawnwages.info/bajoran-engineer/](https://dawnwages.info/bajoran-engineer/)
 
 
-I am a Django Software Engineer turned Product/Community manager. My corporate overlords at Microsoft let me work on the very _coolest_ of projects including, but not limited to: `Python on VS Code`, `Dev Containers`, [`hosting a monthly Python live stream called The Python Pulse`](https://www.youtube.com/playlist?list=PLj6YeMhvp2S4aIxuGH0NaGXQZlVUBsH3E), `Deploying Django on Azure`. 
+I am a Django Software Engineer turned Product/Community manager. My corporate overlords at Microsoft let me work on the very _coolest_ of projects including. 
 
 ## 📅 Upcoming conferences
+<--
 - [DjangoCon EU 2024](https://2024.djangocon.us) Speaker
 - [PyCon Nigeria 2024](https://ng.pycon.org/) Keynote speaker
 - [All Things Open 2024]() Speaker
-
+-->
 <!-- ## Stream Schedule
 ![Starry background. Monday off. Tuesday "Trek Tuesday" twitch.tv/BajoranEngineer "Every Tuesday building Trek demos in Python" Wednesday "Wagtail Wednesday" "Every Wednesday hacking on Wagtail CMS" Thursday off. Friday "Python Friday" "2nd Friday of month w/ Microsoft VS Code" twitch.tv/VisualStudio](./Blue%20and%20Purple%20Futuristic%20Starry%20Sky%20at%20Night%20Thanks%20for%2050M%20Followers%20Twitter%20Post.png) -->
 
