@@ -13,12 +13,15 @@ Currently writing [Domain-Driven Django](http://domaindrivendjango.com).
 
 I am a Django Software Engineer turned Product/Community manager. My corporate overlords at Microsoft let me work on the very _coolest_ of projects including. 
 
-## 📅 Upcoming conferences
-<!--
-- [DjangoCon EU 2024](https://2024.djangocon.us) Speaker
-- [PyCon Nigeria 2024](https://ng.pycon.org/) Keynote speaker
-- [All Things Open 2024]() Speaker
--->
+## 📅 Upcoming conferences / events
+
+- [SciPy 2025](https://2024.djangocon.us) Attendee / Anaconda Sponsor
+- [DjangoCon Africa 2025]() Sponsor Chair
+- [DjangoCon US 2025](https://ng.pycon.org/) CoC Team
+- [PyCon India 2025]() Speaker
+- [CPython Fall Sprints 2025]() WASM Mentee
+- [PyCon UK 2025]() Atendee
+
 <!-- ## Stream Schedule
 ![Starry background. Monday off. Tuesday "Trek Tuesday" twitch.tv/BajoranEngineer "Every Tuesday building Trek demos in Python" Wednesday "Wagtail Wednesday" "Every Wednesday hacking on Wagtail CMS" Thursday off. Friday "Python Friday" "2nd Friday of month w/ Microsoft VS Code" twitch.tv/VisualStudio](./Blue%20and%20Purple%20Futuristic%20Starry%20Sky%20at%20Night%20Thanks%20for%2050M%20Followers%20Twitter%20Post.png) -->
 
