@@ -33,18 +33,18 @@ I am a Django Software Engineer turned Product/Community manager. My corporate o
 
 <img width="2174" height="1224" alt="Workshop Wednesday: Star Treck with Data Science Live: Episode 1 Tech Stack, Requirements and Discovery" src="https://github.com/user-attachments/assets/5b283a58-c442-4e3b-a3de-01151d2c2321" />
 
-|topic|PRD|environment.yml|conda-pack|packages|conda|mamba|pip|
-|---|---|---|---|---|---|---|---|
-|Enterprise Bridge Computer (Jupyter + Streamlit)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Enterprise-Bridge-Computer-Jupyter--Streamlit)||||✅|||
-|Starfleet Academy ML Predictor (scikit-learn)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Starfleet-Academy-ML-Predictor-scikit-learn)||||✅|||
-|Universal Translator Neural Network (TensorFlow)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Universal-Translator-Neural-Network-TensorFlow)||||✅|||
-|Tricorder Medical Diagnostics (OpenCV + ML)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Tricorder-Medical-Diagnostics-OpenCV--ML)|||||✅||
-|Holodeck Environment Generator (PyScript + NumPy)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Holodeck-Environment-Generator-PyScript--NumPy)|||||||
-|Warp Core Optimizer (Numba + SciPy)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Warp-Core-Optimizer-Numba--SciPy)|||||||
-|Stellar Cartography Mapper (HoloViz + 3D)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Stellar-Cartography-Mapper-HoloViz--3D)||||✅|||
-|Borg Pattern Recognition (PyTorch)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Borg-Pattern-Recognition-PyTorch)||||✅|✅|✅|
-|Replicator Molecular Database (image processing)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Replicator-Molecular-Database-image-processing)||||✅|✅||
-|Temporal Anomaly Detection (time series + DuckDB)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Replicator-Molecular-Database-image-processing)||||✅|||
+|topic|PRD|environment.yml|conda-pack|packages|conda|mamba|pip|pixi| *.lock| *.toml|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Enterprise Bridge Computer (Jupyter + Streamlit)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Enterprise-Bridge-Computer-Jupyter--Streamlit)||||✅|||||
+|Starfleet Academy ML Predictor (scikit-learn)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Starfleet-Academy-ML-Predictor-scikit-learn)||||✅|||||
+|Universal Translator Neural Network (TensorFlow)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Universal-Translator-Neural-Network-TensorFlow)||||✅|||||
+|Tricorder Medical Diagnostics (OpenCV + ML)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Tricorder-Medical-Diagnostics-OpenCV--ML)|||||✅||||
+|Holodeck Environment Generator (PyScript + NumPy)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Holodeck-Environment-Generator-PyScript--NumPy)|||||||||
+|Warp Core Optimizer (Numba + SciPy)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Warp-Core-Optimizer-Numba--SciPy)|||||||||
+|Stellar Cartography Mapper (HoloViz + 3D)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Stellar-Cartography-Mapper-HoloViz--3D)||||✅|||||
+|Borg Pattern Recognition (PyTorch)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Borg-Pattern-Recognition-PyTorch)||||✅|✅|✅|||
+|Replicator Molecular Database (image processing)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Replicator-Molecular-Database-image-processing)||||✅|✅||||
+|Temporal Anomaly Detection (time series + DuckDB)|[🔗](https://hackmd.io/@RqUELl8GT4-DORiwwPy7lQ/r1xwKXGUeg#Replicator-Molecular-Database-image-processing)||||✅|||||
 
 ## 🔭 I’m currently working on...
 - [Python Software Foundation](https://github.com/python/) Chair 
