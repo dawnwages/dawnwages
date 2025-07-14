@@ -17,21 +17,23 @@ I am a Django Software Engineer turned Product/Community manager. My corporate o
 
 - [SciPy 2025]() Attendee / Anaconda Sponsor
 - [DjangoCon Africa 2025]() Sponsor Chair
+- [EuroSciPy 2025]() Speaker
 - [DjangoCon US 2025]() CoC Team / Django Girls Organizer & Coach
-- [PyCon India 2025]() Speaker
+- [PyCon India 2025]() Keynote Speaker
 - [CPython Fall Sprints 2025]() WASM Mentee
 - [PyCon UK 2025]() Atendee
+- [PyCon Africa 2025]() Speaker
 - [Django Girls Philly]() Coach
 - [PyData NYC]() TBD
 
-<!-- ## Stream Schedule
-![Starry background. Monday off. Tuesday "Trek Tuesday" twitch.tv/BajoranEngineer "Every Tuesday building Trek demos in Python" Wednesday "Wagtail Wednesday" "Every Wednesday hacking on Wagtail CMS" Thursday off. Friday "Python Friday" "2nd Friday of month w/ Microsoft VS Code" twitch.tv/VisualStudio](./Blue%20and%20Purple%20Futuristic%20Starry%20Sky%20at%20Night%20Thanks%20for%2050M%20Followers%20Twitter%20Post.png) -->
+## Stream Schedule
+![Starry background. Monday off. Tuesday "Trek Tuesday" twitch.tv/BajoranEngineer "Every Tuesday building Trek demos in Python" Wednesday "Wagtail Wednesday" "Every Wednesday hacking on Wagtail CMS" Thursday off. Friday "Python Friday" "2nd Friday of month w/ Microsoft VS Code" twitch.tv/VisualStudio](https://github.com/user-attachments/assets/4b80d843-ba13-41c9-b14d-683b30dadba1)
 
 ## 🔭 I’m currently working on...
 - [Python Software Foundation](https://github.com/python/) Chair 
 - [Anti Racist](https://attheroot.dev) and [Ethical Source](https://ethicalsource.dev/) License Advocate
 - [Wagtail CMS](https://github.com/wagtail/wagtail) Core Team Member
-- [Djangonaut Space](https://github.com/djangonaut-space) peer mentorship ring admin
+- [Djangonaut Space](https://github.com/djangonaut-space) co-founder
 - check out the rest at [dawnwages.info](https://dawnwages.info)
 <!--
 **dawnwages/dawnwages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
