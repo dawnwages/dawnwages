@@ -26,10 +26,6 @@ I am a Django Software Engineer turned Product/Community manager. My corporate o
 - [Django Girls Philly]() Coach
 - [PyData NYC]() TBD
 
-## Stream Schedule
-![Starry background. Monday off. Tuesday "Trek Tuesday" twitch.tv/BajoranEngineer "Every Tuesday building Trek demos in Python" Wednesday "Wagtail Wednesday" "Every Wednesday hacking on Wagtail CMS" Thursday off. Friday "Python Friday" "2nd Friday of month w/ Microsoft VS Code" twitch.tv/VisualStudio](https://github.com/user-attachments/assets/4b80d843-ba13-41c9-b14d-683b30dadba1)
-
-
 ## 🔭 I’m currently working on...
 - [Python Software Foundation](https://github.com/python/) Chair 
 - [Anti Racist](https://attheroot.dev) and [Ethical Source](https://ethicalsource.dev/) License Advocate
