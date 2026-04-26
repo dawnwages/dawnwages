@@ -117,7 +117,8 @@ affiliations:
 | 🏆 **APEX Champions Program** — building Anaconda's developer advocacy network | `IN PROGRESS` | Q2 2026 |
 | 🤖 **Anaconda MCP Server** — agentic engineering + harness architecture | `IN PROGRESS` | Q2 2026 |
 | 📊 **Python Ecosystem Survey** — open data release, 24K respondents | `IN PROGRESS` | 2026 |
-| 🎙️ **Numerically Speaking** — live data science stream on YouTube | `RECURRING` | Weekly |
+| 🎙️ **Numerically Speaking** — live data science stream on YouTube | `RECURRING` | MONTHLY |
+| 🎙️ **Sad Python Girls Club** — pre-recorded Python community and technology podcast | `RECURRING` | MONTHLY |
 | 📖 **Domain-Driven Django** — the book | `WRITING` | TBD |
 | 🛡️ **Anti-Racist Python SDK** — via At The Root | `ONGOING` | ∞ |
 
