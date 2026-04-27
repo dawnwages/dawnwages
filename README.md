@@ -148,10 +148,12 @@ ORGANIZATIONS & CONTRIBUTIONS
 
 I speak regularly at Python conferences. Some recent and upcoming:
 
-- 🏔️ **PyCon Italia** — *"Build Your Castle, Dig Your Moat"* (AI sovereignty, local LLMs, supply chain security)
-- 🌊 **All Things Open** — *Star Trek LCARS Agentic Data Science* (naturally)
-- 🐍 **PyCon US** — PyAI: Ask the Experts happy hour co-organizer (Long Beach, 2026)
-- 📚 **SciPy** — Python Ecosystem Survey poster presentation
+- **PyTexas** - Keynote
+- 🏔️ **PyCon Italia** — Keynotr
+- **PyData London** - *"Build Your Castle, Dig Your Moat"* (AI sovereignty, local LLMs, supply chain security)
+- 🐍 **PyCon US** — Speaker x2
+- 📚 **SciPy** — Sponsor Co-chair
+- **EuroPython** - Speaker 
 - 🎤 Past stages: DjangoCon, EuroPython, PyCon India (keynote), JupyterCon, PyData Vermont, SciPy
 
 > 📋 [Speaker Rider](https://gist.github.com/dawnwages) — if you're thinking about inviting me, read this first.
@@ -181,7 +183,7 @@ I speak regularly at Python conferences. Some recent and upcoming:
 │    The two are not in conflict."                    │
 │                                              — DW   │
 │                                                     │
-│    🖖  Live long and `import antigravity`           │
+│    🖖  Peace, love and data           │
 └─────────────────────────────────────────────────────┘
 ```
 
